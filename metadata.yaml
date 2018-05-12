@@ -1,0 +1,33 @@
+_repo: Fables-de-La-FontaineTome-Second_17942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Fontaine, Jean de
+    aliases:
+    - De La Fontaine, Jean
+    - Fontaine, Jean de La
+    birthdate: 1621
+    deathdate: 1695
+    gutenberg_agent_id: '1758'
+    url: http://www.gutenberg.org/2009/agents/1758
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
+description: ''
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- FR Contes
+gutenberg_issued: '2006-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17942'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fables, French'
+title: Fables de La Fontaine. Tome Second
+url: http://www.gutenberg.org/ebooks/17942
